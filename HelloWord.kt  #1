@@ -1,0 +1,15 @@
+Kotlin javaya çok benzemektedir.Sade ve kolay bir kod yapısı vardır.Kotlinde kod yazmak için ya;"fun main(args : Array<String>) { }" kodları kullanılır yada;
+fun main() {
+    println("Hello, world!!!")
+} 
+Ben 2.koddan yola çıkarak yazıyorum zaten ikiside aynı şey.
+fun main() {
+    println("Hello, world!!!")
+}
+
+Daha sonra kodu çalıştırdığımızda ekranda "Hello,wordl!!!" yazdığını görüyoruz.
+
+Ekran Görüntüsü;
+https://i.hizliresim.com/DOE1Xm.png
+
+Bir dahaki dersimizde değişkenlere giriş yapacağız
