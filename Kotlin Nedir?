@@ -10,6 +10,51 @@ Kotlin'i eğer bilgisayarınıza birşey indirmek istemiyorsanız Kotlin'in kend
 
 Kotlin'i telefondada "Dcoder" uygulaması sayesinde geliştirebilirsiniz.
 
+Kotlin dilini öne çıkaran en önemli etken ise : Google Şirketinin Android Developer bölümünün bu dile güvenmeleri ve Android uygulamaları geliştirmek için desteklemeleridir.
+
+Kotlin’in ismi ise Rusyada bulunan Kotlin adasından gelmektedir.
+
+JavaScript kodlarına derlenerek HTML sayfalarında kullanılmaktadır. Javascript, HTML gibi web tarafında kullanılan diller ile ilgiliyseniz Kotlin sizin hoşunuza gidecek olan bir dil diye düşünüyorum.
+
+Kotlin, Java ve Android ile %100 uyumlu bir şekilde çalışmaktadır. Java ile Kotlin bir elmanın yarısı gibi düşünülebilir.
+
+Kotlin Neden Geliştirildi ?
+
+Birçok geliştirici gibi sizinde kendinize bu soruyu defalarca sorduğunuzu düşünüyorum. Java varken neden bu dile ihtiyaç duyuldu ? Ne gerek vardı ki ? Senelerdir Java ile yazıyoruz nereden çıktı bu dil ? gibi birçok geliştirici tarafından sorulmuş olan sorulara cevap olarak JetBrains firması ; “Performans ve güvenliği feda etmeden Java’dan daha özlü kodlar yazmayı sağlamak için bu dili geliştirdik” cevabını vermektedir. Kotlin’in temel hedefi kod satırlarını azaltmak, daha güvenli kod yazmak olarak söyleyebiliriz. Kotlin Javayı bitirdi ya bitirecek gibi yorumlar asılsızdır. Kotlin geliştiricilerinden olan Andrey Breslav, Kotlin’in nesne yönelimli bir dil ve Java’dan “daha iyi bir dil” olarak tasarlandığını söyledi. Ancak hala Java koduyla tamamen birlikte çalıştığı için şirketler Java’dan Kotlin’e kademeli bir geçiş yapıyorlar.
+
+Kotlin vs Java?
+
+Bu karşılaştırmayı üç ana başlık altında inceleyebiliriz. Kotlin’in Javada olan bazı eksiklikleri gidermesi, Kotlin de olan Java da olmayan, Java da olup Kotlin de olmayan özellikler şeklinde ayırabiliriz.
+
+a) Kotlin’in Javada olan bazı eksiklikleri gidermesi :
+
+Null referansların kontrol edilmesi,
+Ham veri türü olmaması,
+Dizilerin değişmemesi
+Doğru işlev türleri vardır.
+İstisnaları kontrol etmez.
+b) Kotlin de olan Java da olmayan özellikler :
+
+Null-safety
+Smart casts
+String templates,
+Properties,
+Primary constructors,
+Range,
+Operator overloading
+Data Classes
+Daha fazla bilgiye ulaşmak için Kotlin resmi sayfasını ziyaret edebilirsiniz :
+
+https://kotlinlang.org/
+
+c) Java da olup Kotlin de olmayan özellikler
+
+İstisna Kontrolü
+Primitive Veri Tipleri
+Statik Üyeler
+Joker Tipler
+Ternary Operatörü
+
 Bir sonraki dersimizde hello world yazımını göstererek kotlin'in kod yapısına giriş yapacağız.
 (Eklenerek düzenlenmiştir)
 
@@ -18,4 +63,5 @@ Bir sonraki dersimizde hello world yazımını göstererek kotlin'in kod yapıs�
 
 
 
-Kaynak:https://www.mobilhanem.com/kotlin-dersleri-kotlin-nedir/
+//Kaynaklar:https://www.mobilhanem.com/kotlin-dersleri-kotlin-nedir/ 
+//https://medium.com/@halilozel1903/kotlin-nedir-43e312d2dca6
