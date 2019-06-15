@@ -1,0 +1,38 @@
+//Kotlinde değişkenleri tanımlarken var veya val kullanıyoruz.Daha sonra değişken adı:değişken tipi=değeri şeklinde değişkenleri kullanıyoruz.
+//Veya pythondaki gibide kullanabilirsiniz.Mesela val değişken adı=değeri şeklinde.
+//Kotlinde kodların sonuna isterseniz ";" koyabilirsiniz.Kotlin buna pek önem vermez.
+//Değişkenlere örnek olarak;
+
+fun main() {
+    var x:Int=20
+    print(x)
+}
+
+//Yazdığımızda ekran görüntüsü aşağıdaki linkteki gibi olacaktır;
+//https://i.hizliresim.com/VQAOYr.png
+//Şimdi tüm değişkenleri ekrana yazdıran kod yazalım.
+
+fun main() {
+    var d1:Byte=10
+    var d2:Short=20
+    var d3:Int=30
+    var d4:Long=50
+    var d5:Float=126.78F
+    var d6:Double=325.49
+    var d7:String="ByPerPer"
+    var d8:Char='A'
+    var d9=true
+    println(d1)
+    println(d2)
+    println(d3)
+    println(d4)
+    println(d5)
+    println(d6)
+    println(d7)
+    println(d8)
+    println(d9)
+}
+
+//Ekran Görüntüsü aşağıdaki linkteki gibidir.
+//https://i.hizliresim.com/Lv2Mbo.png
+//Bir sonraki dersimizi kaçırmayın..
