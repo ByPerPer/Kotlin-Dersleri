@@ -1,0 +1,21 @@
+Kotlin JVM (Java Virtual Machine) üzerinde çalışan bir programlama dilidir. Ayrıca Javascript koduna da derlenebilir (fakat biz yazı serimizde javascripte derlenme konusuna değinmeyeceğiz). Kotlin yazılım dili 2011 yılında JetBrains firması tarafından geliştirilmeye başlandığı duyuruldu ve ilk stabil sürümünü (v1.0) 2016 yılında yayınladı. (JetBrain firması Intellij IDEA IDE’nin geliştiricisidir. Daha sonra Google ile birlikte Intellij IDEA tabanlı Android Studio‘yu geliştirdiler ve Android’in resmi geliştirici ide’si oldu. Hem android hemde java geliştiricileri için Eclipse ide’nin yerini Intellj IDEA ve Android Studio almaktadır.)
+
+Kotlin yazılım dili Google I/O 2017 etkinliğinde Java ve C++ dan sonra Android’in 3. resmi geliştirici dili olarak duyurulmuştur. Bu duyurudan sonra Kotlin’in popülerliğinin artması kaçınılmazdır. Konu hakkında videoya buradan ulaşabilirsiniz.
+
+Kotlin yazılım dilini öğrenerek hem Android uygulama geliştirebilir , hemde server-side uygulamaları geliştirebilirsiniz. Ama bunları geliştirebilmek için öncelikle Kotlin Yazılım dilinin temellerini öğrenmelisiniz.
+
+Kotlin geliştirebilmek için öncelikle bilgisayarımıza JDK kurmamız gerekir. Ide olarak Intellij IDEA , Android Studio , Eclipse(JetBrains’in geliştirdiği kotlin plugini ile) ve ya ide kullanmayıp terminal ile Kotlin uygulamalar geliştirebiliriz.
+
+Kotlin'i eğer bilgisayarınıza birşey indirmek istemiyorsanız Kotlin'in kendi sitesinden kod yazabilirsiniz.Link:https://play.kotlinlang.org
+
+Kotlin'i telefondada "Dcoder" uygulaması sayesinde geliştirebilirsiniz.
+
+Bir sonraki dersimizde hello world yazımını göstererek kotlin'in kod yapısına giriş yapacağız.
+(Eklenerek düzenlenmiştir)
+
+
+
+
+
+
+Kaynak:https://www.mobilhanem.com/kotlin-dersleri-kotlin-nedir/
